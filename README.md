@@ -31,12 +31,12 @@ The Gerber files should be 1.6mm. I payed 12.3€ incl shipping to Europe for 5.
 ![This is an image](https://i.imgur.com/FQWu6kX.jpg)
 
 ## Once everything is arrived from the list it's time to start building. 
-###S oldering the underside.
+### Soldering the underside.
 The first thing you should do is attach the resistors or the buttons won't work. 
 10k ohm resistor with code 103.
 ![This is an image](https://i.imgur.com/OmdcHLY.jpg)
 
-Because afterwards it can get crowded
+Because afterwards it can get crowded:
 ![This is an image](https://imgur.com/mURZnYB)
 
 For the oled screen you must set the jumpers depending on your model.

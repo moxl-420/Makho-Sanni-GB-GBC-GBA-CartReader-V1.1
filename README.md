@@ -41,21 +41,22 @@ The first thing you should do is attach the resistors or the buttons won't work.
 
 Because afterwards it can get crowded:
 
-![This is an image](https://imgur.com/mURZnYB)
+![This is an image](https://imgur.com/mURZnYB.jpeg)
 
 For the oled screen you must set the jumpers depending on your model.
 My screen was GND-VCC-SCL-SDA
 
-![This is an image](https://imgur.com/F35PndN)
+![This is an image](https://imgur.com/F35PndN.jpeg)
 
 JP2 should be set to GND and JP1 to VCC as show below. If yours is switched, you should switch the bridging:
 
-![This is an image](https://imgur.com/lCxJEP9)
+![This is an image](https://imgur.com/lCxJEP9.jpeg)
 
 - Start with the voltage regulator in red.
 - The USB C charging port (which is missing because I forgot to order it)
-- 
-![This is an image](https://imgur.com/e7E3ECT)
+
+
+![This is an image](https://imgur.com/e7E3ECT.jpeg)
 
 - The sockets for the sd card depending on your model, I have a MicroSD
 - The sockets for the Arduino (If you're not gonna use sockets, this is the time for the buttons else can be done later)
@@ -63,18 +64,18 @@ JP2 should be set to GND and JP1 to VCC as show below. If yours is switched, you
 - The battery terminals
 It should look something like this:
 
-![This is an image](https://imgur.com/EcQOmzu)
+![This is an image](https://imgur.com/EcQOmzu.jpeg)
 
 
 The 5V to 3.3V step-down converter should be installed like this:
 5v   in
 3.3v out
 
-![This is an image](https://imgur.com/NCOpwEl)
+![This is an image](https://imgur.com/NCOpwEl.jpeg)
 
 For the sd cardreader I've chosen to not bend the pins but to solder straight pins in:
 
-![This is an image](https://imgur.com/4MJYfZs)
+![This is an image](https://i.imgur.com/4MJYfZs.jpeg)
 
 ### Soldering the top
 If you haven't soldered in the buttons yet, now is the time.
@@ -85,16 +86,16 @@ Solder the following components:
 - The GB cart slot
 If you're finished it should look something like:
 
-![This is an image](https://imgur.com/Huo3bZH)
+![This is an image](https://imgur.com/Huo3bZH.jpeg)
 
 ### Populating the board.
 
 I put the pins in the sockets of the Arduino and afterwards put the arduino in it to solder the pins, using the motherboard as a jig.
 When done it should look something like this:
 
-![This is an image](https://imgur.com/GKp9fzA)
+![This is an image](https://imgur.com/GKp9fzA.jpeg)
 
-![This is an image](https://imgur.com/ZPWdfm6)
+![This is an image](https://imgur.com/ZPWdfm6.jpeg)
 
 
 ## Printing the case:
@@ -104,9 +105,9 @@ You'll need 3x M3 5-8mm thread screws
 
 Place the pcb in the bottom parts with the 2 switches first.
 
-![This is an image](https://imgur.com/8PbXPuj)
+![This is an image](https://imgur.com/8PbXPuj.jpeg)
 
 With the top part on:
 
-![This is an image](https://imgur.com/uNFuw9j)
+![This is an image](https://imgur.com/uNFuw9j.jpeg)
 

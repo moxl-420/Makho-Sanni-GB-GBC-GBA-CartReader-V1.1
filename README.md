@@ -1,9 +1,9 @@
-#Currently this is still a WIP as I'm still building and waiting for parts, this should get you on your way however.
+# Currently this is still a WIP as I'm still building and waiting for parts, this should get you on your way however.
 
-##First I want to state that I create nothing but the 3d files for the case!
+## First I want to state that I create nothing but the 3d files for the case!
 See this as a buildguide for myself in the future in case I want to recreate it.
 
-##Links:
+## Links:
 
 Since this is based on the Sanni V3 here are the links to their info:
 

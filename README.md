@@ -30,8 +30,8 @@ The Gerber files should be 1.6mm. I payed 12.3€ incl shipping to Europe for 5.
 
 ![This is an image](https://i.imgur.com/FQWu6kX.jpg)
 
-##Once everything is arrived from the list it's time to start building. 
-###Soldering the underside.
+## Once everything is arrived from the list it's time to start building. 
+###S oldering the underside.
 The first thing you should do is attach the resistors or the buttons won't work. 
 10k ohm resistor with code 103.
 ![This is an image](https://i.imgur.com/OmdcHLY.jpg)
@@ -66,7 +66,7 @@ The 5V to 3.3V step-down converter should be installed like this:
 For the sd cardreader I've chosen to not bend the pins but to solder straight pins in:
 ![This is an image](https://imgur.com/4MJYfZs)
 
-###Soldering the top
+### Soldering the top
 If you haven't soldered in the buttons yet, now is the time.
 There are multiple choices for buttons, I went with what I had laying around. Ajazz Bananas in this case.
 Solder the following components:
@@ -76,7 +76,7 @@ Solder the following components:
 If you're finished it should look something like:
 ![This is an image](https://imgur.com/Huo3bZH)
 
-###Populating the board.
+### Populating the board.
 
 I put the pins in the sockets of the Arduino and afterwards put the arduino in it to solder the pins, using the motherboard as a jig.
 When done it should look something like this:
@@ -85,8 +85,8 @@ When done it should look something like this:
 ![This is an image](https://imgur.com/ZPWdfm6)
 
 
-##Printing the case:
-###This is not on Makho's list of items needed as he didn't create the case.
+## Printing the case:
+### This is not on Makho's list of items needed as he didn't create the case.
 You'll need 3x M3 5-8mm thread screws 
 (in these pictures V2 of the case is shown, in the links below you'll find later versions.)
 

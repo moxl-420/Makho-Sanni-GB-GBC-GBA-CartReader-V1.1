@@ -4,6 +4,11 @@
 See this as a buildguide for myself in the future in case I want to recreate it.
 
 ## Links:
+Stl files for the case:
+
+https://www.thingiverse.com/thing:5638408
+
+https://www.printables.com/model/319780-gb-gbc-gba-makho-sanni-cart-reader-case
 
 Since this is based on the Sanni V3 here are the links to their info:
 
@@ -62,7 +67,7 @@ For all sockets I've cut them to length and used coarse (80grit) sandpaper to ha
 
 - The sockets for the sd card depending on your model, I have a MicroSD
 - The sockets for the Arduino (If you're not gonna use sockets, this is the time for the buttons else can be done later)
-- The buttons
+- The buttons (check orientation in able to fit the case)
 - The battery terminals
 It should look something like this:
 
@@ -102,6 +107,10 @@ When done it should look something like this:
 
 ## Printing the case:
 ### This is not on Makho's list of items needed as he didn't create the case.
+You can choose either links:
+https://www.printables.com/model/319780-gb-gbc-gba-makho-sanni-cart-reader-case
+https://www.thingiverse.com/thing:5638408
+
 You'll need 3x M3 5-8mm thread screws 
 (in these pictures V2 of the case is shown, in the links below you'll find later versions.)
 

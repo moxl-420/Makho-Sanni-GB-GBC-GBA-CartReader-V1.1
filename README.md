@@ -53,6 +53,8 @@ My screen was GND-VCC-SCL-SDA
 
 ![This is an image](https://imgur.com/F35PndN.jpeg)
 
+Below you can see how the bridging should be done depending on your model of oled
+
 ![This is an image](https://imgur.com/gTi36QQ.png)
 
 JP2 should be set to GND and JP1 to VCC as show below. If yours is switched, you should switch the bridging:

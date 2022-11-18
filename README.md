@@ -90,7 +90,7 @@ There are multiple choices for buttons, I went with what I had laying around. Aj
 Solder the following components:
 - 4-pin socket for the Oled screen
 - The Led (The longest lead goes through the hole marked VCC)
-- The GB cart slot
+- The GB cart slot, which you should prepare by cutting the tabs off and I used some sandpaper to get the bottom flush and I pulled the tabs out in the front.
 If you're finished it should look something like:
 
 ![This is an image](https://imgur.com/Huo3bZH.jpeg)

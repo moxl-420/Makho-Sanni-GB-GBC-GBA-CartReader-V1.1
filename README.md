@@ -111,3 +111,35 @@ With the top part on:
 
 ![This is an image](https://imgur.com/uNFuw9j.jpeg)
 
+
+
+# Flashing the Arduino
+
+You can follow the Sanni Guidelines:
+https://github.com/sanni/cartreader/wiki/User-Guide
+
+The only thing you have to keep in mind is that you have to define the HW model as HW3
+and that you can comment most other systems as it can only read GBx games.
+![This is an image](https://i.imgur.com/AuONNzz.png)
+
+# Using the device
+
+In the guidelines of Sanni you can find the full behaviour of the buttons:
+https://github.com/sanni/cartreader/wiki/User-Guide 
+
+Below is a snippet of their info:
+
+♻️ Button 1
+
+    Press once to move the selection down.
+    Double-click to move the selection up.
+    Hold longer to execute current selection.
+    While inside the filebrowser you can go to the next page by moving the selection down once more after you reached the last item on the current page.
+    In a similar fashion you can go back one page by double-clicking while the first item is selected.
+    You can enter a folder by holding button 1 pressed longer.
+    You can go back to the SD's root folder by double-clicking until you reach the first selection of the first page and then double-clicking once more.
+
+🔴 Button 2
+
+    Press to execute current selection.
+    When in filebrowser mode enters a directory.

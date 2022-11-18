@@ -107,12 +107,15 @@ When done it should look something like this:
 
 ## Printing the case:
 ### This is not on Makho's list of items needed as he didn't create the case.
-You can choose either links:
-https://www.printables.com/model/319780-gb-gbc-gba-makho-sanni-cart-reader-case
-https://www.thingiverse.com/thing:5638408
-
 You'll need 3x M3 5-8mm thread screws 
 (in these pictures V2 of the case is shown, in the links below you'll find later versions.)
+
+You can choose either links:
+
+https://www.printables.com/model/319780-gb-gbc-gba-makho-sanni-cart-reader-case
+
+https://www.thingiverse.com/thing:5638408
+
 
 Place the pcb in the bottom parts with the 2 switches first.
 
@@ -121,7 +124,6 @@ Place the pcb in the bottom parts with the 2 switches first.
 With the top part on:
 
 ![This is an image](https://imgur.com/uNFuw9j.jpeg)
-
 
 
 # Flashing the Arduino

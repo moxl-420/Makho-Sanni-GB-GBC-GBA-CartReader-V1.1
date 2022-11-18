@@ -53,6 +53,8 @@ My screen was GND-VCC-SCL-SDA
 
 ![This is an image](https://imgur.com/F35PndN.jpeg)
 
+![This is an image](https://imgur.com/gTi36QQ.png)
+
 JP2 should be set to GND and JP1 to VCC as show below. If yours is switched, you should switch the bridging:
 
 ![This is an image](https://imgur.com/lCxJEP9.jpeg)

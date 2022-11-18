@@ -58,6 +58,8 @@ JP2 should be set to GND and JP1 to VCC as show below. If yours is switched, you
 
 ![This is an image](https://imgur.com/e7E3ECT.jpeg)
 
+For all sockets I've cut them to length and used coarse (80grit) sandpaper to have flush ends.
+
 - The sockets for the sd card depending on your model, I have a MicroSD
 - The sockets for the Arduino (If you're not gonna use sockets, this is the time for the buttons else can be done later)
 - The buttons

@@ -40,7 +40,7 @@ The Gerber files should be 1.6mm. I payed 12.3€ incl shipping to Europe for 5.
 ## Once everything is arrived from the list it's time to start building. 
 ### Soldering the underside.
 The first thing you should do is attach the resistors or the buttons won't work. 
-10k ohm resistor with code 103.
+10k ohm resistor with code 103 to pad R1 and R2.
 
 ![This is an image](https://i.imgur.com/OmdcHLY.jpg)
 
